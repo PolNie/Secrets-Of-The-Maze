@@ -14,7 +14,7 @@ With intuitive controls and an immersive atmosphere, this game offers a dynamic 
 </div>
 
 ## Game Design Document (GDD) 📚
-To access the Game Design Document, click [here](https://docs.google.com/document/d/1S2x0769RUKKgoYsBhAJkZDPssDdg8__NdlXIfzj8py8/edit?usp=sharing).
+To access the Game Design Document click [here](https://docs.google.com/document/d/1S2x0769RUKKgoYsBhAJkZDPssDdg8__NdlXIfzj8py8/edit?usp=sharing).
 
 ## User's Guide 🦮
 To access the Secrets Of The Maze user's guide click [here](link_users_guide).
