@@ -20,7 +20,7 @@ To access the Game Design Document click [here](https://docs.google.com/document
 To access the Secrets Of The Maze user's guide click [here](link_users_guide).
 
 ## Video Demo 📽️
-[![Video Demo](miniatura)](link_videoDemo).
+[![Video Demo](miniatura)](link_videoDemo)
 
 ## Game Installers (Windows & Linux) 🎮
 - Windows: [name_installer.exe](link_windows)
