@@ -3,7 +3,7 @@ Immerse yourself in **Secrets Of The Maze**, a fantasy adventure game that chall
 
 With intuitive controls and an immersive atmosphere, this game offers a dynamic and thrilling experience for players of all ages. Do you have what it takes to find the exit and free yourself from this magical prison? Discover the secrets and take on the challenge!
 
-# Images Preview 📷
+## Images Preview 📷
 <div>
     <div>
         <img src="https://github.com/PolNie/Secrets-Of-The-Maze/blob/main/img/.png" width=auto height="205">
