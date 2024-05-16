@@ -1,4 +1,4 @@
-# Secrets Of The Maze
+# Secrets Of The Maze 🧙🏼‍♂️
 Immerse yourself in **Secrets Of The Maze**, a fantasy adventure game that challenges you to escape a mysterious labyrinth created by an evil wizard. Surrounded by dark corridors and mystical creatures, you must collect objects to enhance your abilities and avoid the relentless maze guardians.
 
 With intuitive controls and an immersive atmosphere, this game offers a dynamic and thrilling experience for players of all ages. Do you have what it takes to find the exit and free yourself from this magical prison? Discover the secrets and take on the challenge!
@@ -23,8 +23,8 @@ To access the Secrets Of The Maze user's guide click [here](link_users_guide).
 [![Video Demo](miniatura)](link_videoDemo).
 
 ## Game Installers (Windows & Linux) 🎮
-- [Windows](link_windows)
-- [Linux](link_linux) 
+- Windows: [name_installer.exe](link_windows)
+- Linux: [name_installer.deb](link_linux)
 
 ## Project Repository 🔗
 To access the Secrets Of The Maze repository project click [here](link_gitlab).
